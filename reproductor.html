@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ca">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Polònia Archive</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section class="video-area">
+      <video id="meu-video" controls></video>
+    </section>
+
+    <section class="controls-area">
+      <input type="range" id="progress-bar" min="0" max="100" value="0" />
+
+      <div class="buttons">
+        <button id="btn-play">
+          <img id="play-icon" src="img/icons/Play.png" />
+        </button>
+        <button id="btn-volume">
+          <img id="sound-icon" src="img/icons/Sound.png" />
+        </button>
+        <input
+          type="range"
+          id="volume-slider"
+          min="0"
+          max="1"
+          step="0.1"
+          value="1"
+        />
+      </div>
+
+      <div class="time-display">
+        <span id="current-time">00:00</span> /
+        <span id="total-time">00:00</span>
+      </div>
+      <a href="index.html"><img id="logo" src="img/Logo.jpg" /></a>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <p>&copy; 2026 Arnau Caminal Bonals. Tots els drets reservats a TV3.</p>
+      </div>
+    </footer>
+
+    <script src="player.js"></script>
+  </body>
+</html>

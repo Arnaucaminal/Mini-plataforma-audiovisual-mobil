@@ -1,0 +1,187 @@
+{
+    "continguts": [
+        {
+            "id": 1,
+            "titol": "Mas Style",
+            "descripcio": "Artur Mas (Bruno Oro) canta i balla el Mas Style. El president vol demostrar que és un Mas nou i que té un nou estil. L'objectiu és guanyar-se l'electorat i aconseguir la majoria absoluta a les eleccions del 25-N.",
+            "personatges": [
+                "Artur Mas",
+                " Duran i Lleida",
+                " Oriol Pujol",
+                " Felip Puig",
+                " Joana Ortega"
+            ],
+            "data_publicació": "13 / 10 / 2012",
+            "categoria": "Musical",
+            "miniatura": "img/miniatures/El_Mas_Style.jpg",
+            "url_video": "videos/El_Mas_Style.mp4",
+            "durada_total": "02:44"
+        },
+        {
+            "id": 2,
+            "titol": "Barto Doraemon",
+            "descripcio": "Després del Barçagate, Bartomeu (Pep Plaza), ens sorprendrà a ritme de la cançó de Doraemon i descobrirem qui té realment la butxaca màgica.",
+            "personatges": [
+                "Bartomeu",
+                " Doraemon",
+                " Policies"
+            ],
+            "data_publicació": "04 / 03 / 2021",
+            "categoria": "Esport",
+            "miniatura": "img/miniatures/Barto_Doraemon.jpg",
+            "url_video": "videos/Barto_Doraemon.mp4",
+            "durada_total": "01:03"
+        },
+        {
+            "id": 3,
+            "titol": "El croissant simbòlic",
+            "descripcio": "Torna al programa el treballador del sector serveis més temut pels parlamentaris: el cambrer del croissant. Aquesta vegada se les veurà amb Artur Mas (David Marcé), entre d'altres.",
+            "personatges": [
+                "Cambrer del Crossant",
+                " Artur Mas",
+                " Raül Romeva",
+                " Marta Rovira",
+                " Josep Rull"
+            ],
+            "data_publicació": "22 / 02 / 2018",
+            "categoria": "Política",
+            "miniatura": "img/miniatures/El_Croissant_Simbòlic.jpg",
+            "url_video": "videos/El_Croissant_Simbòlic.mp4",
+            "durada_total": "03:11"
+        },
+        {
+            "id": 4,
+            "titol": "El croissant de Marchena",
+            "descripcio": "El cambrer més temut de la restauració torna després de mesos d'absència. El jutge Marchena (Queco Novell) demana un croissant de xocolata per esmorzar al bar del Suprem. El que passa a continuació et sorprendrà.",
+            "personatges": [
+                "Cambrer del Crossant",
+                " Manuel Marchena"
+            ],
+            "data_publicació": "14 / 03 / 2019",
+            "categoria": "Política",
+            "miniatura": "img/miniatures/El_Croissant_De_Marchena.jpg",
+            "url_video": "videos/El_Croissant_De_Marchena.mp4",
+            "durada_total": "02:35"
+        },
+        {
+            "id": 5,
+            "titol": "El museu de la censura",
+            "descripcio": "El guia Aniol Jorquera (Cesc Casanovas) fa una visita al famós museu de la censura.",
+            "personatges": [
+                "Aniol Jorquera"
+            ],
+            "data_publicació": "26 / 03 / 2015",
+            "categoria": "Cultura",
+            "miniatura": "img/miniatures/El_Museu_De_La_Censura.jpg",
+            "url_video": "videos/El_Museu_De_La_Censura.mp4",
+            "durada_total": "04:08"
+        },
+        {
+            "id": 6,
+            "titol": "El museu de la CUP",
+            "descripcio": "El nostre entranyable Aniol Jorquera (Cesc Casanovas) ens ensenya un nou museu: el de la CUP.",
+            "personatges": [
+                "Aniol Jorquera",
+                " Anna Gabriel",
+                " Artur Mas"
+            ],
+            "data_publicació": "23 / 01 / 2020",
+            "categoria": "Cultura",
+            "miniatura": "img/miniatures/El_museu_de_la_CUP.jpg",
+            "url_video": "videos/El_museu_de_la_CUP.mp4",
+            "durada_total": "03:28"
+        },
+        {
+            "id": 7,
+            "titol": "El màster de Cifuentes",
+            "descripcio": "El món acadèmic està trasbalsat pels escàndols dels màsters d'alguns dirigents polítics. Mariano Rajoy (Queco Novell) demana explicacions a Cristina Cifuentes (Judit Martín) sobre el seu currículum.",
+            "personatges": [
+                "Cristina Cifuentes",
+                " Mariano Rajoy"
+            ],
+            "data_publicació": "13 / 04 / 2018",
+            "categoria": "Política",
+            "miniatura": "img/miniatures/El_Màster_De_Cifuentes.jpg",
+            "url_video": "videos/El_Màster_De_Cifuentes.mp4",
+            "durada_total": "04:04"
+        },
+        {
+            "id": 8,
+            "titol": "La gene alternativa",
+            "descripcio": "Salvador Illa (Queco Novell) ens presentarà el seu nou govern a l'ombra format per consellers alternatius del PSC.",
+            "personatges": [
+                "Salvador Illa",
+                " Ramon Espadaler"
+            ],
+            "data_publicació": "10 / 06 / 2021",
+            "categoria": "Política",
+            "miniatura": "img/miniatures/La_gene_alternativa.jpg",
+            "url_video": "videos/La_gene_alternativa.mp4",
+            "durada_total": "03:43"
+        },
+        {
+            "id": 9,
+            "titol": "Núñez ajuda amb el finançament",
+            "descripcio": "L'expresident del Barça, Josep Lluís Núñez, volta pel plató de Polònia i s'ofereix per ajudar Montilla amb els problemes del finançament de Catalunya.",
+            "personatges": [
+                "Josep Lluís Nuñez",
+                " José Montilla",
+                " Toni Soler"
+            ],
+            "data_publicació": "02 / 07 / 2009",
+            "categoria": "Política",
+            "miniatura": "img/miniatures/Núñez_ajuda_amb_el_finançament.jpg",
+            "url_video": "videos/Núñez_ajuda_amb_el_finançament.mp4",
+            "durada_total": "02:23"
+        },
+        {
+            "id": 10,
+            "titol": "Macià, Companys i Núñez",
+            "descripcio": "Francesc Macià (Queco Novell) i Lluís Companys (David Marcé) rebran Josep Lluís Núñez (Carlos Latre) per conversar-hi una estona.",
+            "personatges": [
+                "Josep Lluís Nuñez",
+                " Francesc Macià",
+                " Lluís Companys"
+            ],
+            "data_publicació": "06 / 12 / 2018",
+            "categoria": "Difunts",
+            "miniatura": "img/miniatures/Macià_Companys_i_Núñez.jpg",
+            "url_video": "videos/Macià_Companys_i_Núñez.mp4",
+            "durada_total": "03:14"
+        },
+        {
+            "id": 11,
+            "titol": "La presentació de Quim Torra",
+            "descripcio": "El 131è president de la Generalitat arriba al Polònia. Quim Torra (Ivan Labanda) s'instal·la al seu despatx per començar a treballar, però hi trobarà diversos entrebancs que l'hi impediran. Per sort, acabaran ballant al ritme de Grease.",
+            "personatges": [
+                "Quim Torra",
+                " Elsa Artiadi",
+                " Carles Puigdemont",
+                " Roger Torrent"
+            ],
+            "data_publicació": "17 / 05 / 2018",
+            "categoria": "Política",
+            "miniatura": "img/miniatures/La_presentació_de_Quim_Torra.jpg",
+            "url_video": "videos/La_presentació_de_Quim_Torra.mp4",
+            "durada_total": "05:23"
+        },
+        {
+            "id": 12,
+            "titol": "Portem 500 Polònies",
+            "descripcio": "Que el temps passa volant ja ho sabem. Però quan t'adones fa molt vertigen. Així que per a celebrar que 500 programes no se celebren cada dia, us hem preparat un musical molt especial.",
+            "personatges": [
+                "José Montilla",
+                " Pasqual Maragall",
+                " Artur Mas",
+                " Carles Puigdemont",
+                " Quim Torra",
+                " Soraya Sáenz de Santamaría"
+            ],
+            "data_publicació": "18 / 01 / 2019",
+            "categoria": "Musical",
+            "miniatura": "img/miniatures/Portem_500_Polònies.jpg",
+            "url_video": "videos/Portem_500_Polònies.mp4",
+            "durada_total": "04:19"
+        }
+    ]
+}
